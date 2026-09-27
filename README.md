@@ -9,7 +9,7 @@
 Building modern digital products, intelligent experiences, and Arabic-first platforms.
 
 [![Website](https://img.shields.io/badge/Website-ip--murad.com-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ip-murad.com)
-[![Klaok](https://img.shields.io/badge/Klaok-AI_Product-000000?style=for-the-badge&logo=sparkles&logoColor=white)](https://klaok.ip-murad.com)
+[![Klaok](https://img.shields.io/badge/Klaok-AI_Product-000000?style=for-the-badge)](https://klaok.ip-murad.com)
 [![GitHub](https://img.shields.io/badge/GitHub-muradaljohani-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muradaljohani)
 
 </div>
@@ -54,7 +54,7 @@ I care about clean interfaces, reliable systems, mobile-first experiences, and c
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![OAuth](https://img.shields.io/badge/OAuth-Identity_%26_Auth-2563EB?style=for-the-badge&logo=auth0&logoColor=white)
-![WebAuthn](https://img.shields.io/badge/WebAuthn-Passkeys-0F172A?style=for-the-badge&logo=webauthn&logoColor=white)
+![WebAuthn](https://img.shields.io/badge/WebAuthn-Passkeys-0F172A?style=for-the-badge)
 
 </div>
 
@@ -87,7 +87,7 @@ An independent AI product focused on conversational intelligence, search, files,
 **Focus:**  
 AI products · Search · Tools · Files · Conversational UX · Product Engineering
 
-[![Open Klaok](https://img.shields.io/badge/Open-Klaok-000000?style=flat-square&logo=sparkles&logoColor=white)](https://klaok.ip-murad.com)
+[![Open Klaok](https://img.shields.io/badge/Open-Klaok-000000?style=flat-square)](https://klaok.ip-murad.com)
 
 </td>
 </tr>
@@ -129,7 +129,7 @@ AI products · Search · Tools · Files · Conversational UX · Product Engineer
 
 [![Website](https://img.shields.io/badge/Website-ip--murad.com-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ip-murad.com)
 [![GitHub](https://img.shields.io/badge/GitHub-@muradaljohani-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muradaljohani)
-[![Klaok](https://img.shields.io/badge/Klaok-klaok.ip--murad.com-000000?style=for-the-badge&logo=sparkles&logoColor=white)](https://klaok.ip-murad.com)
+[![Klaok](https://img.shields.io/badge/Klaok-klaok.ip--murad.com-000000?style=for-the-badge)](https://klaok.ip-murad.com)
 
 <br/>
 
