@@ -16,6 +16,48 @@ Building modern digital products, intelligent experiences, and Arabic-first plat
 
 ---
 
+<!-- SANAD_BROWSER_CONTRIBUTION_INVITE_START -->
+## 🌐 Sanad Browser — Join the Development | ساهم في تطوير متصفح سند الحرمين
+
+<div dir="rtl" align="right">
+
+### دعوة مفتوحة للمطورين والمساهمين
+
+أدعو المطورين والمهتمين بالتقنية من **السعودية ومختلف أنحاء العالم** للمشاركة في تطوير **متصفح سند الحرمين (Sanad Browser)**، وهو مشروع متصفح سطح مكتب **مفتوح المصدر** مبني على Chromium وElectron.
+
+نسعى معًا إلى تحسين تجربة التصفح مع التركيز على **الخصوصية والأمان والأداء وسهولة الاستخدام ودعم اللغة العربية**.
+
+**كيف يمكنك المساعدة؟** عبر إصلاح الأخطاء، اقتراح الميزات، تحسين الواجهة وتجربة المستخدم، تطوير الاختبارات، مراجعة الشيفرة، تحسين التوثيق أو الترجمة. نرحّب بالمساهمين الجدد وأصحاب الخبرة.
+
+**ابدأ من مستودع المشروع:** اقرأ دليل المساهمة، وشارك أفكارك أو بلاغات الأخطاء عبر Issues، وأرسل تحسيناتك عبر Pull Requests. للإبلاغ عن ثغرات أمنية، اتبع سياسة الأمان الخاصة بالمشروع بدلًا من نشر التفاصيل علنًا.
+
+</div>
+
+### Open Invitation to Developers & Contributors
+
+I'm inviting developers, designers, testers, technical writers, and open-source enthusiasts **from Saudi Arabia and around the world** to help build and improve **Sanad Browser**, an open-source Chromium-based desktop browser built with Electron.
+
+The project focuses on **privacy, security, performance, usability, and an Arabic-friendly browsing experience**.
+
+**Your contribution matters:** help fix bugs, propose features, improve UI/UX, write tests, review code, enhance documentation, or support localization. Contributors of all experience levels are welcome.
+
+**Get involved:** explore the repository, read the contribution guide, open an issue, or submit a pull request. Please report security vulnerabilities privately in accordance with the project's security policy.
+
+<div align="center">
+
+[![Visit Sanad Browser](https://img.shields.io/badge/Official_Website-sanadbrowser.com-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sanadbrowser.com/)
+[![Source Code](https://img.shields.io/badge/GitHub-Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muradaljohani/Sanad-Browser)
+[![Contribute](https://img.shields.io/badge/Contribute-Get_Started-2563EB?style=for-the-badge&logo=git&logoColor=white)](https://github.com/muradaljohani/Sanad-Browser/blob/main/CONTRIBUTING.md)
+[![Issues](https://img.shields.io/badge/Issues-Report_%26_Suggest-334155?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muradaljohani/Sanad-Browser/issues)
+
+**Let's build a better browser together. — لنبنِ متصفحًا أفضل معًا.**
+
+</div>
+
+<!-- SANAD_BROWSER_CONTRIBUTION_INVITE_END -->
+
+---
+
 ## About Me
 
 I'm a **Software Developer** and **Computer Science student** focused on building polished, scalable, and useful digital products.
