@@ -19,6 +19,9 @@ Building modern digital products, intelligent experiences, and Arabic-first plat
 <!-- SANAD_BROWSER_CONTRIBUTION_INVITE_START -->
 ## 🌐 Sanad Browser — Join the Development | ساهم في تطوير متصفح سند الحرمين
 
+**GitHub Organization | المنظمة:** [SanadBrowser](https://github.com/SanadBrowser) · **[Join the contributor community | انضم لمجتمع المساهمين](https://github.com/muradaljohani/Sanad-Browser/issues/new?template=join-community.yml)**
+
+
 <div dir="rtl" align="right">
 
 ### دعوة مفتوحة للمطورين والمساهمين
