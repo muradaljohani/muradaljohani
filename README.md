@@ -16,6 +16,28 @@ Building modern digital products, intelligent experiences, and Arabic-first plat
 
 ---
 
+<!-- SANAD_BROWSER_FEATURED_START -->
+## Featured project · متصفح سَنَد الحرمين
+
+<p align="center">
+  <a href="https://github.com/muradaljohani/Sanad-Browser">
+    <img src="https://raw.githubusercontent.com/muradaljohani/Sanad-Browser/main/desktop/assets/mark.png" width="72" height="72" alt="شعار متصفح سَنَد الحرمين · Sanad Browser logo">
+  </a>
+</p>
+
+<p align="center" dir="rtl"><strong>متصفح سطح مكتب مفتوح المصدر لنظام Windows بواجهة عربية وتبويبات معزولة.</strong></p>
+<p align="center">An Arabic-first Windows browser built on Chromium and Electron.</p>
+
+<p align="center">
+  <a href="https://github.com/muradaljohani/Sanad-Browser"><strong>المستودع · Source code</strong></a> ·
+  <a href="https://sanadbrowser.com/">الموقع الرسمي</a> ·
+  <a href="https://apps.microsoft.com/detail/9NZB8PG7D7KP">Microsoft Store</a> ·
+  <a href="https://github.com/muradaljohani/Sanad-Browser/tree/main/docs">التوثيق · Docs</a>
+</p>
+<!-- SANAD_BROWSER_FEATURED_END -->
+
+---
+
 <!-- SANAD_BROWSER_CONTRIBUTION_INVITE_START -->
 ## 🌐 Sanad Browser — Join the Development | ساهم في تطوير متصفح سند الحرمين
 
